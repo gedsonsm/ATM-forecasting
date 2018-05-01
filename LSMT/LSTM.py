@@ -1,4 +1,3 @@
-#https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
 from pandas import DataFrame
 from pandas import Series
 from pandas import concat
