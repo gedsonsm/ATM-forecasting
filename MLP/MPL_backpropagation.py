@@ -7,8 +7,6 @@ from pandas import read_csv
 from pandas import datetime
 import numpy as np
 from sklearn import preprocessing, cross_validation
-
-#https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/
 from pandas import DataFrame
 from pandas import Series
 from pandas import concat
